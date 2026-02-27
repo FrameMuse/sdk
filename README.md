@@ -76,13 +76,13 @@ bun i @denshya/sdk
 ### Tools
 
 |Name||
+|---|---|
 |`bem`||
 |`isRecord`||
 |`interpolate`||
 |`stopPropagation`||
 |`inputValue`||
 |`BiMap`||
-
 |`Enum`||
 |`FileTranform` (fetch/url)||
 |`percentage`||
@@ -92,15 +92,19 @@ bun i @denshya/sdk
 |`Time`||
 |`TimeSpan`||
 |`Units`||
-
 |`predicates`||
 |`getCircularReplacer`||
 |`KeyChain`||
 |`measurePerformance`||
 |`TextNodeUtils`||
-|`BiMap`||
-|`BiMap`||
-|`BiMap`||
+|`AudioTools`||
+|`Viewport`||
+|`ClientSocket`||
+|`FilePreview`||
+|`FormRecord`||
+|`FormIssues`||
+|`FormDataEnhanced`||
+|`WindowTab`||
 
 ### Types
 
